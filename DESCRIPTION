@@ -1,6 +1,6 @@
 Package: Disagg
 Type: Package
-Title: Disaggregation of daily mean discharges to hourly discharges including the peak (Title Case)
+Title: Disaggregation of daily mean discharges to hourly discharges including the peak
 Version: 0.1.0
 Authors@R: person("Svenja", "Fischer", email = "svenja.fischer@rub.de",
   role = c("aut", "cre"))
