@@ -6,7 +6,7 @@ Authors@R: person("Svenja", "Fischer", email = "svenja.fischer@rub.de",
   role = c("aut", "cre"))
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: The disaggregation divides into two cases. One case is without knowledge of the peak value, which approximates an third order polynomial to the daily discharges with respect to the volume balance. The other case takes into account the peak and uses the Lorentz- or Weibull-function to approximate the fast-changing behaviour of a flood. here also the volume balance and thecontinuity are respected. Additional assumptions in both cases are the non-negativity and the smoothness of days.
-License: file LICENSE
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Imports: cmaes
